@@ -10,7 +10,7 @@ extra tasks those we wanna pull off:
 add a chat bot to the front page.
 add a bit of animation.
 
-you can find a list of sites we are gonna use as a refernce in refernces.md file
+you can find a list of sites we are gonna use as a reference in references.md file
 
 All the best Avengers!
 Frosthack needs YOU......
