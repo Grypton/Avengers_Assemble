@@ -1,0 +1,85 @@
+*{
+    margin:0;
+    padding:0;
+
+}
+
+body{
+    background-color:rgb(244, 226, 248)
+
+}
+
+.navbar{
+    background-color:transparent !important;
+    border:none !important;
+}
+
+.navbar li a{
+    color:#fff !important;
+    font-size: 18px;
+}
+
+.navbar-brand{
+    color:#fff !important
+
+}
+
+.div img{
+    width:80%;
+}
+
+.card{
+    /* position:absolute;
+    left:15px;
+    top:900px; */
+    
+
+} 
+
+.header{
+    width:100%;
+    height:100%;
+    position:relative;
+    background-image: url("images/bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover; 
+    display:table;
+    min-height: 100vh;
+
+}
+
+/* #middle{
+    min-height: 100vh;
+} */
+
+#lower{
+    /* min-height:100vh; */
+    display:flex;
+    flex-direction:row;
+    width:80%;
+    margin:auto;
+
+
+}
+#low_middle{
+    min-height: 70vh;
+
+    
+}
+
+button{
+    background-color:transparent !important;
+}
+
+.card{
+    margin:10px;
+
+    /* border: 3px dotted rgb(39, 59, 238); */
+}
+
+#about{
+    margin:40px;
+
+    text-align:center;
+    
+}
